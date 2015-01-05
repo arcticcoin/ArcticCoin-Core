@@ -1,0 +1,4 @@
+ArcticCoin-Core
+===============
+
+Coin core
