@@ -1,4 +1,4 @@
 ArcticCoin-Core
 ===============
 
-Coin core
+This includes ArctiCoin Coin Core! Nothing else...More coming soon.
